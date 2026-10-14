@@ -1,0 +1,488 @@
+Jun 12 11:33:13 10.71.57.0 u95286004 Connection from 10.71.57.0 port 13246 on 82.165.82.8 port 22 rdomain ""
+Jun 12 11:33:20 10.71.57.0 u95286004 Accepted password for u95286004 from 10.71.57.0 port 13246 ssh2
+Jun 12 11:33:20 10.71.57.0 u95286004 Starting session: subsystem 'sftp' for u95286004 from 10.71.57.0 port 13246 id 0
+Jun 12 11:33:20 10.71.57.0 u95286004 session opened for local user u95286004 from [10.71.57.0]
+Jun 12 11:33:38 10.71.57.0 u95286004 Connection from 10.71.57.0 port 59364 on 82.165.82.8 port 22 rdomain ""
+Jun 12 11:33:38 10.71.57.0 u95286004 Accepted password for u95286004 from 10.71.57.0 port 59364 ssh2
+Jun 12 11:33:38 10.71.57.0 u95286004 Connection from 10.71.57.0 port 59354 on 82.165.82.8 port 22 rdomain ""
+Jun 12 11:33:38 10.71.57.0 u95286004 Accepted password for u95286004 from 10.71.57.0 port 59354 ssh2
+Jun 12 11:33:39 10.71.57.0 u95286004 Starting session: subsystem 'sftp' for u95286004 from 10.71.57.0 port 59354 id 0
+Jun 12 11:33:39 10.71.57.0 u95286004 Starting session: subsystem 'sftp' for u95286004 from 10.71.57.0 port 59364 id 0
+Jun 12 11:33:39 10.71.57.0 u95286004 session opened for local user u95286004 from [10.71.57.0]
+Jun 12 11:33:39 10.71.57.0 u95286004 session opened for local user u95286004 from [10.71.57.0]
+Jun 12 11:33:39 10.71.57.0 u95286004 open "/favicon.ico" flags READ mode 0666
+Jun 12 11:33:39 10.71.57.0 u95286004 open "/index.html" flags READ mode 0666
+Jun 12 11:33:39 10.71.57.0 u95286004 close "/index.html" bytes read 14322 written 0
+Jun 12 11:33:39 10.71.57.0 u95286004 [10.71.57.0|get|0|14322|0|0|0|2f696e6465782e68746d6c|]
+Jun 12 11:33:39 10.71.57.0 u95286004 open "/main-RWOG3ART.js" flags READ mode 0666
+Jun 12 11:33:39 10.71.57.0 u95286004 close "/favicon.ico" bytes read 15086 written 0
+Jun 12 11:33:39 10.71.57.0 u95286004 [10.71.57.0|get|0|15086|0|0|0|2f66617669636f6e2e69636f|]
+Jun 12 11:33:39 10.71.57.0 u95286004 open "/polyfills-FFHMD2TL.js" flags READ mode 0666
+Jun 12 11:33:39 10.71.57.0 u95286004 close "/polyfills-FFHMD2TL.js" bytes read 34519 written 0
+Jun 12 11:33:39 10.71.57.0 u95286004 [10.71.57.0|get|0|34519|0|0|0|2f706f6c7966696c6c732d4646484d4432544c2e6a73|]
+Jun 12 11:33:39 10.71.57.0 u95286004 open "/styles-KDMBLWIT.css" flags READ mode 0666
+Jun 12 11:33:39 10.71.57.0 u95286004 close "/styles-KDMBLWIT.css" bytes read 302 written 0
+Jun 12 11:33:39 10.71.57.0 u95286004 [10.71.57.0|get|0|302|0|0|0|2f7374796c65732d4b444d424c5749542e637373|]
+Jun 12 11:33:39 10.71.57.0 u95286004 close "/main-RWOG3ART.js" bytes read 233690 written 0
+Jun 12 11:33:39 10.71.57.0 u95286004 [10.71.57.0|get|0|233690|0|0|0|2f6d61696e2d52574f47334152542e6a73|]
+Jun 12 11:33:39 10.71.57.0 u95286004 open "/assets/images_site_maman/facade.jpg" flags READ mode 0666
+Jun 12 11:33:39 10.71.57.0 u95286004 open "/assets/photo_accueil.jpg" flags READ mode 0666
+Jun 12 11:33:39 10.71.57.0 u95286004 close "/assets/images_site_maman/facade.jpg" bytes read 524268 written 0
+Jun 12 11:33:39 10.71.57.0 u95286004 [10.71.57.0|get|0|524268|0|0|0|2f6173736574732f696d616765735f736974655f6d616d616e2f6661636164652e6a7067|]
+Jun 12 11:33:39 10.71.57.0 u95286004 open "/assets/images_site_maman/maison1.jpg" flags READ mode 0666
+Jun 12 11:33:39 10.71.57.0 u95286004 close "/assets/photo_accueil.jpg" bytes read 1180662 written 0
+Jun 12 11:33:39 10.71.57.0 u95286004 [10.71.57.0|get|0|1180662|0|0|0|2f6173736574732f70686f746f5f6163637565696c2e6a7067|]
+Jun 12 11:33:39 10.71.57.0 u95286004 open "/assets/images_site_maman/logo_mail.png" flags READ mode 0666
+Jun 12 11:33:39 10.71.57.0 u95286004 close "/assets/images_site_maman/logo_mail.png" bytes read 1627 written 0
+Jun 12 11:33:39 10.71.57.0 u95286004 [10.71.57.0|get|0|1627|0|0|0|2f6173736574732f696d616765735f736974655f6d616d616e2f6c6f676f5f6d61696c2e706e67|]
+Jun 12 11:33:39 10.71.57.0 u95286004 open "/assets/images_site_maman/logo_fleche.png" flags READ mode 0666
+Jun 12 11:33:39 10.71.57.0 u95286004 close "/assets/images_site_maman/maison1.jpg" bytes read 1429134 written 0
+Jun 12 11:33:39 10.71.57.0 u95286004 [10.71.57.0|get|0|1429134|0|0|0|2f6173736574732f696d616765735f736974655f6d616d616e2f6d6169736f6e312e6a7067|]
+Jun 12 11:33:39 10.71.57.0 u95286004 open "/assets/images_site_maman/building.jpg" flags READ mode 0666
+Jun 12 11:33:39 10.71.57.0 u95286004 close "/assets/images_site_maman/logo_fleche.png" bytes read 1069 written 0
+Jun 12 11:33:39 10.71.57.0 u95286004 [10.71.57.0|get|0|1069|0|0|0|2f6173736574732f696d616765735f736974655f6d616d616e2f6c6f676f5f666c656368652e706e67|]
+Jun 12 11:33:39 10.71.57.0 u95286004 open "/assets/images_site_maman/separation.png" flags READ mode 0666
+Jun 12 11:33:39 10.71.57.0 u95286004 close "/assets/images_site_maman/separation.png" bytes read 13162 written 0
+Jun 12 11:33:39 10.71.57.0 u95286004 [10.71.57.0|get|0|13162|0|0|0|2f6173736574732f696d616765735f736974655f6d616d616e2f73657061726174696f6e2e706e67|]
+Jun 12 11:33:39 10.71.57.0 u95286004 open "/assets/images_site_maman/logo_telephone.png" flags READ mode 0666
+Jun 12 11:33:39 10.71.57.0 u95286004 close "/assets/images_site_maman/building.jpg" bytes read 390194 written 0
+Jun 12 11:33:39 10.71.57.0 u95286004 [10.71.57.0|get|0|390194|0|0|0|2f6173736574732f696d616765735f736974655f6d616d616e2f6275696c64696e672e6a7067|]
+Jun 12 11:33:39 10.71.57.0 u95286004 open "/assets/images_site_maman/maison.jpg" flags READ mode 0666
+Jun 12 11:33:39 10.71.57.0 u95286004 close "/assets/images_site_maman/logo_telephone.png" bytes read 1200 written 0
+Jun 12 11:33:39 10.71.57.0 u95286004 [10.71.57.0|get|0|1200|0|0|0|2f6173736574732f696d616765735f736974655f6d616d616e2f6c6f676f5f74656c6570686f6e652e706e67|]
+Jun 12 11:33:39 10.71.57.0 u95286004 open "/assets/images_site_maman/logo_reno1.png" flags READ mode 0666
+Jun 12 11:33:39 10.71.57.0 u95286004 close "/assets/images_site_maman/logo_reno1.png" bytes read 1240 written 0
+Jun 12 11:33:39 10.71.57.0 u95286004 [10.71.57.0|get|0|1240|0|0|0|2f6173736574732f696d616765735f736974655f6d616d616e2f6c6f676f5f72656e6f312e706e67|]
+Jun 12 11:33:39 10.71.57.0 u95286004 open "/assets/images_site_maman/fleche.jpg" flags READ mode 0666
+Jun 12 11:33:39 10.71.57.0 u95286004 close "/assets/images_site_maman/fleche.jpg" bytes read 2369 written 0
+Jun 12 11:33:39 10.71.57.0 u95286004 [10.71.57.0|get|0|2369|0|0|0|2f6173736574732f696d616765735f736974655f6d616d616e2f666c656368652e6a7067|]
+Jun 12 11:33:39 10.71.57.0 u95286004 open "/assets/images_site_maman/logo_med1.png" flags READ mode 0666
+Jun 12 11:33:39 10.71.57.0 u95286004 close "/assets/images_site_maman/logo_med1.png" bytes read 1174 written 0
+Jun 12 11:33:39 10.71.57.0 u95286004 [10.71.57.0|get|0|1174|0|0|0|2f6173736574732f696d616765735f736974655f6d616d616e2f6c6f676f5f6d6564312e706e67|]
+Jun 12 11:33:39 10.71.57.0 u95286004 open "/assets/images_site_maman/logo_fleche2.png" flags READ mode 0666
+Jun 12 11:33:39 10.71.57.0 u95286004 close "/assets/images_site_maman/logo_fleche2.png" bytes read 1071 written 0
+Jun 12 11:33:39 10.71.57.0 u95286004 [10.71.57.0|get|0|1071|0|0|0|2f6173736574732f696d616765735f736974655f6d616d616e2f6c6f676f5f666c65636865322e706e67|]
+Jun 12 11:33:39 10.71.57.0 u95286004 open "/assets/images_site_maman/house-logo.svg" flags READ mode 0666
+Jun 12 11:33:39 10.71.57.0 u95286004 close "/assets/images_site_maman/house-logo.svg" bytes read 1406 written 0
+Jun 12 11:33:39 10.71.57.0 u95286004 [10.71.57.0|get|0|1406|0|0|0|2f6173736574732f696d616765735f736974655f6d616d616e2f686f7573652d6c6f676f2e737667|]
+Jun 12 11:33:39 10.71.57.0 u95286004 open "/assets/images_site_maman/photo_maison1.jpg" flags READ mode 0666
+Jun 12 11:33:39 10.71.57.0 u95286004 close "/assets/images_site_maman/maison.jpg" bytes read 8925203 written 0
+Jun 12 11:33:39 10.71.57.0 u95286004 [10.71.57.0|get|0|8925203|0|0|0|2f6173736574732f696d616765735f736974655f6d616d616e2f6d6169736f6e2e6a7067|]
+Jun 12 11:33:39 10.71.57.0 u95286004 open "/assets/images_site_maman/logo_fleche_accueil.png" flags READ mode 0666
+Jun 12 11:33:39 10.71.57.0 u95286004 close "/assets/images_site_maman/logo_fleche_accueil.png" bytes read 967 written 0
+Jun 12 11:33:39 10.71.57.0 u95286004 [10.71.57.0|get|0|967|0|0|0|2f6173736574732f696d616765735f736974655f6d616d616e2f6c6f676f5f666c656368655f6163637565696c2e706e67|]
+Jun 12 11:33:39 10.71.57.0 u95286004 open "/assets/images_site_maman/logo_bois1.png" flags READ mode 0666
+Jun 12 11:33:39 10.71.57.0 u95286004 close "/assets/images_site_maman/photo_maison1.jpg" bytes read 80820 written 0
+Jun 12 11:33:39 10.71.57.0 u95286004 [10.71.57.0|get|0|80820|0|0|0|2f6173736574732f696d616765735f736974655f6d616d616e2f70686f746f5f6d6169736f6e312e6a7067|]
+Jun 12 11:33:39 10.71.57.0 u95286004 close "/assets/images_site_maman/logo_bois1.png" bytes read 1348 written 0
+Jun 12 11:33:39 10.71.57.0 u95286004 [10.71.57.0|get|0|1348|0|0|0|2f6173736574732f696d616765735f736974655f6d616d616e2f6c6f676f5f626f6973312e706e67|]
+Jun 12 11:33:39 10.71.57.0 u95286004 open "/assets/images_site_maman/familles/maison1av.jpg" flags READ mode 0666
+Jun 12 11:33:39 10.71.57.0 u95286004 open "/assets/images_site_maman/familles/maison1ap.jpg" flags READ mode 0666
+Jun 12 11:33:39 10.71.57.0 u95286004 close "/assets/images_site_maman/familles/maison1av.jpg" bytes read 193589 written 0
+Jun 12 11:33:39 10.71.57.0 u95286004 [10.71.57.0|get|0|193589|0|0|0|2f6173736574732f696d616765735f736974655f6d616d616e2f66616d696c6c65732f6d6169736f6e3161762e6a7067|]
+Jun 12 11:33:39 10.71.57.0 u95286004 close "/assets/images_site_maman/familles/maison1ap.jpg" bytes read 149158 written 0
+Jun 12 11:33:39 10.71.57.0 u95286004 [10.71.57.0|get|0|149158|0|0|0|2f6173736574732f696d616765735f736974655f6d616d616e2f66616d696c6c65732f6d6169736f6e3161702e6a7067|]
+Jun 12 11:33:39 10.71.57.0 u95286004 open "/assets/images_site_maman/familles/maison2av.jpg" flags READ mode 0666
+Jun 12 11:33:39 10.71.57.0 u95286004 open "/assets/images_site_maman/familles/maison2ap.jpg" flags READ mode 0666
+Jun 12 11:33:39 10.71.57.0 u95286004 close "/assets/images_site_maman/familles/maison2av.jpg" bytes read 127211 written 0
+Jun 12 11:33:39 10.71.57.0 u95286004 [10.71.57.0|get|0|127211|0|0|0|2f6173736574732f696d616765735f736974655f6d616d616e2f66616d696c6c65732f6d6169736f6e3261762e6a7067|]
+Jun 12 11:33:39 10.71.57.0 u95286004 close "/assets/images_site_maman/familles/maison2ap.jpg" bytes read 184880 written 0
+Jun 12 11:33:39 10.71.57.0 u95286004 [10.71.57.0|get|0|184880|0|0|0|2f6173736574732f696d616765735f736974655f6d616d616e2f66616d696c6c65732f6d6169736f6e3261702e6a7067|]
+Jun 12 11:33:39 10.71.57.0 u95286004 open "/assets/images_site_maman/accueil/photo_accueil.jpg" flags READ mode 0666
+Jun 12 11:33:39 10.71.57.0 u95286004 open "/assets/images_site_maman/renovations/escalier2.jpg" flags READ mode 0666
+Jun 12 11:33:40 10.71.57.0 u95286004 close "/assets/images_site_maman/renovations/escalier2.jpg" bytes read 116220 written 0
+Jun 12 11:33:40 10.71.57.0 u95286004 [10.71.57.0|get|1|116220|0|0|0|2f6173736574732f696d616765735f736974655f6d616d616e2f72656e6f766174696f6e732f657363616c696572322e6a7067|]
+Jun 12 11:33:40 10.71.57.0 u95286004 open "/assets/images_site_maman/renovations/sdb.jpg" flags READ mode 0666
+Jun 12 11:33:40 10.71.57.0 u95286004 close "/assets/images_site_maman/accueil/photo_accueil.jpg" bytes read 1180662 written 0
+Jun 12 11:33:40 10.71.57.0 u95286004 [10.71.57.0|get|1|1180662|0|0|0|2f6173736574732f696d616765735f736974655f6d616d616e2f6163637565696c2f70686f746f5f6163637565696c2e6a7067|]
+Jun 12 11:33:40 10.71.57.0 u95286004 close "/assets/images_site_maman/renovations/sdb.jpg" bytes read 104517 written 0
+Jun 12 11:33:40 10.71.57.0 u95286004 [10.71.57.0|get|0|104517|0|0|0|2f6173736574732f696d616765735f736974655f6d616d616e2f72656e6f766174696f6e732f7364622e6a7067|]
+Jun 12 11:33:40 10.71.57.0 u95286004 open "/assets/images_site_maman/renovations/escalier1.jpg" flags READ mode 0666
+Jun 12 11:33:40 10.71.57.0 u95286004 open "/assets/images_site_maman/renovations/porte.jpg" flags READ mode 0666
+Jun 12 11:33:40 10.71.57.0 u95286004 close "/assets/images_site_maman/renovations/escalier1.jpg" bytes read 135837 written 0
+Jun 12 11:33:40 10.71.57.0 u95286004 [10.71.57.0|get|0|135837|0|0|0|2f6173736574732f696d616765735f736974655f6d616d616e2f72656e6f766174696f6e732f657363616c696572312e6a7067|]
+Jun 12 11:33:40 10.71.57.0 u95286004 open "/assets/images_site_maman/renovations/maison_face.jpg" flags READ mode 0666
+Jun 12 11:33:40 10.71.57.0 u95286004 close "/assets/images_site_maman/renovations/porte.jpg" bytes read 105201 written 0
+Jun 12 11:33:40 10.71.57.0 u95286004 [10.71.57.0|get|0|105201|0|0|0|2f6173736574732f696d616765735f736974655f6d616d616e2f72656e6f766174696f6e732f706f7274652e6a7067|]
+Jun 12 11:33:40 10.71.57.0 u95286004 open "/assets/images_site_maman/renovations/maison.jpg" flags READ mode 0666
+Jun 12 11:33:40 10.71.57.0 u95286004 close "/assets/images_site_maman/renovations/maison_face.jpg" bytes read 147212 written 0
+Jun 12 11:33:40 10.71.57.0 u95286004 [10.71.57.0|get|0|147212|0|0|0|2f6173736574732f696d616765735f736974655f6d616d616e2f72656e6f766174696f6e732f6d6169736f6e5f666163652e6a7067|]
+Jun 12 11:33:40 10.71.57.0 u95286004 open "/assets/images_site_maman/renovations/cheminee.jpg" flags READ mode 0666
+Jun 12 11:33:40 10.71.57.0 u95286004 close "/assets/images_site_maman/renovations/maison.jpg" bytes read 672348 written 0
+Jun 12 11:33:40 10.71.57.0 u95286004 [10.71.57.0|get|0|672348|0|0|0|2f6173736574732f696d616765735f736974655f6d616d616e2f72656e6f766174696f6e732f6d6169736f6e2e6a7067|]
+Jun 12 11:33:40 10.71.57.0 u95286004 open "/assets/images_site_maman/renovations/maison_arriere.jpg" flags READ mode 0666
+Jun 12 11:33:40 10.71.57.0 u95286004 close "/assets/images_site_maman/renovations/cheminee.jpg" bytes read 399705 written 0
+Jun 12 11:33:40 10.71.57.0 u95286004 [10.71.57.0|get|0|399705|0|0|0|2f6173736574732f696d616765735f736974655f6d616d616e2f72656e6f766174696f6e732f6368656d696e65652e6a7067|]
+Jun 12 11:33:40 10.71.57.0 u95286004 open "/assets/images_site_maman/centres_medicaux/meignan_bassens.jpg" flags READ mode 0666
+Jun 12 11:33:40 10.71.57.0 u95286004 close "/assets/images_site_maman/renovations/maison_arriere.jpg" bytes read 182537 written 0
+Jun 12 11:33:40 10.71.57.0 u95286004 [10.71.57.0|get|0|182537|0|0|0|2f6173736574732f696d616765735f736974655f6d616d616e2f72656e6f766174696f6e732f6d6169736f6e5f617272696572652e6a7067|]
+Jun 12 11:33:40 10.71.57.0 u95286004 close "/assets/images_site_maman/centres_medicaux/meignan_bassens.jpg" bytes read 148640 written 0
+Jun 12 11:33:40 10.71.57.0 u95286004 [10.71.57.0|get|0|148640|0|0|0|2f6173736574732f696d616765735f736974655f6d616d616e2f63656e747265735f6d656469636175782f6d6569676e616e5f62617373656e732e6a7067|]
+Jun 12 11:33:40 10.71.57.0 u95286004 open "/assets/images_site_maman/centres_medicaux/centre_langoiran.jpg" flags READ mode 0666
+Jun 12 11:33:40 10.71.57.0 u95286004 open "/assets/images_site_maman/centres_medicaux/les_laurieres.jpg" flags READ mode 0666
+Jun 12 11:33:40 10.71.57.0 u95286004 close "/assets/images_site_maman/centres_medicaux/centre_langoiran.jpg" bytes read 83851 written 0
+Jun 12 11:33:40 10.71.57.0 u95286004 [10.71.57.0|get|0|83851|0|0|0|2f6173736574732f696d616765735f736974655f6d616d616e2f63656e747265735f6d656469636175782f63656e7472655f6c616e676f6972616e2e6a7067|]
+Jun 12 11:33:40 10.71.57.0 u95286004 close "/assets/images_site_maman/centres_medicaux/les_laurieres.jpg" bytes read 127916 written 0
+Jun 12 11:33:40 10.71.57.0 u95286004 [10.71.57.0|get|0|127916|0|0|0|2f6173736574732f696d616765735f736974655f6d616d616e2f63656e747265735f6d656469636175782f6c65735f6c61757269657265732e6a7067|]
+Jun 12 11:33:40 10.71.57.0 u95286004 open "/assets/images_site_maman/maisons_bois/pins.jpg" flags READ mode 0666
+Jun 12 11:33:40 10.71.57.0 u95286004 open "/assets/images_site_maman/maisons_bois/plaine.jpg" flags READ mode 0666
+Jun 12 11:33:40 10.71.57.0 u95286004 close "/assets/images_site_maman/maisons_bois/pins.jpg" bytes read 573860 written 0
+Jun 12 11:33:40 10.71.57.0 u95286004 [10.71.57.0|get|0|573860|0|0|0|2f6173736574732f696d616765735f736974655f6d616d616e2f6d6169736f6e735f626f69732f70696e732e6a7067|]
+Jun 12 11:33:40 10.71.57.0 u95286004 close "/assets/images_site_maman/maisons_bois/plaine.jpg" bytes read 601859 written 0
+Jun 12 11:33:40 10.71.57.0 u95286004 [10.71.57.0|get|0|601859|0|0|0|2f6173736574732f696d616765735f736974655f6d616d616e2f6d6169736f6e735f626f69732f706c61696e652e6a7067|]
+Jun 12 11:33:40 10.71.57.0 u95286004 open "/assets/images_site_maman/maisons_bois/interieur.jpg" flags READ mode 0666
+Jun 12 11:33:40 10.71.57.0 u95286004 open "/assets/images_site_maman/lieux_publics/20171013_112601.JPG" flags READ mode 0666
+Jun 12 11:33:40 10.71.57.0 u95286004 close "/assets/images_site_maman/maisons_bois/interieur.jpg" bytes read 141074 written 0
+Jun 12 11:33:40 10.71.57.0 u95286004 [10.71.57.0|get|0|141074|0|0|0|2f6173736574732f696d616765735f736974655f6d616d616e2f6d6169736f6e735f626f69732f696e746572696575722e6a7067|]
+Jun 12 11:33:40 10.71.57.0 u95286004 open "/assets/images_site_maman/lieux_publics/20171103_111509.JPG" flags READ mode 0666
+Jun 12 11:33:40 10.71.57.0 u95286004 close "/assets/images_site_maman/lieux_publics/20171013_112601.JPG" bytes read 6335184 written 0
+Jun 12 11:33:40 10.71.57.0 u95286004 [10.71.57.0|get|0|6335184|0|0|0|2f6173736574732f696d616765735f736974655f6d616d616e2f6c696575785f7075626c6963732f32303137313031335f3131323630312e4a5047|]
+Jun 12 11:33:40 10.71.57.0 u95286004 open "/assets/images_site_maman/lieux_publics/20171013_112625.JPG" flags READ mode 0666
+Jun 12 11:33:40 10.71.57.0 u95286004 close "/assets/images_site_maman/lieux_publics/20171103_111509.JPG" bytes read 2917316 written 0
+Jun 12 11:33:40 10.71.57.0 u95286004 [10.71.57.0|get|0|2917316|0|0|0|2f6173736574732f696d616765735f736974655f6d616d616e2f6c696575785f7075626c6963732f32303137313130335f3131313530392e4a5047|]
+Jun 12 11:33:40 10.71.57.0 u95286004 open "/assets/images_site_maman/batiments_activites/bat_act1.jpg" flags READ mode 0666
+Jun 12 11:33:40 10.71.57.0 u95286004 close "/assets/images_site_maman/batiments_activites/bat_act1.jpg" bytes read 87049 written 0
+Jun 12 11:33:40 10.71.57.0 u95286004 [10.71.57.0|get|0|87049|0|0|0|2f6173736574732f696d616765735f736974655f6d616d616e2f626174696d656e74735f6163746976697465732f6261745f616374312e6a7067|]
+Jun 12 11:33:40 10.71.57.0 u95286004 open "/assets/images_site_maman/batiments_activites/bat_act2.jpg" flags READ mode 0666
+Jun 12 11:33:40 10.71.57.0 u95286004 close "/assets/images_site_maman/batiments_activites/bat_act2.jpg" bytes read 71676 written 0
+Jun 12 11:33:40 10.71.57.0 u95286004 [10.71.57.0|get|0|71676|0|0|0|2f6173736574732f696d616765735f736974655f6d616d616e2f626174696d656e74735f6163746976697465732f6261745f616374322e6a7067|]
+Jun 12 11:33:40 10.71.57.0 u95286004 open "/assets/images_site_maman/batiments_activites/bat_act3.jpg" flags READ mode 0666
+Jun 12 11:33:40 10.71.57.0 u95286004 close "/assets/images_site_maman/lieux_publics/20171013_112625.JPG" bytes read 5302295 written 0
+Jun 12 11:33:40 10.71.57.0 u95286004 [10.71.57.0|get|0|5302295|0|0|0|2f6173736574732f696d616765735f736974655f6d616d616e2f6c696575785f7075626c6963732f32303137313031335f3131323632352e4a5047|]
+Jun 12 11:33:40 10.71.57.0 u95286004 close "/assets/images_site_maman/batiments_activites/bat_act3.jpg" bytes read 70541 written 0
+Jun 12 11:33:40 10.71.57.0 u95286004 [10.71.57.0|get|0|70541|0|0|0|2f6173736574732f696d616765735f736974655f6d616d616e2f626174696d656e74735f6163746976697465732f6261745f616374332e6a7067|]
+Jun 12 11:33:40 10.71.57.0 u95286004 open "/logs/access.log.22.gz" flags READ mode 0666
+Jun 12 11:33:40 10.71.57.0 u95286004 open "/logs/access.log.23.7.gz" flags READ mode 0666
+Jun 12 11:33:40 10.71.57.0 u95286004 close "/logs/access.log.22.gz" bytes read 15173 written 0
+Jun 12 11:33:40 10.71.57.0 u95286004 [10.71.57.0|get|0|15173|0|0|0|2f6c6f67732f6163636573732e6c6f672e32322e677a|]
+Jun 12 11:33:40 10.71.57.0 u95286004 open "/logs/access.log.23.2.gz" flags READ mode 0666
+Jun 12 11:33:40 10.71.57.0 u95286004 close "/logs/access.log.23.7.gz" bytes read 2776 written 0
+Jun 12 11:33:40 10.71.57.0 u95286004 [10.71.57.0|get|0|2776|0|0|0|2f6c6f67732f6163636573732e6c6f672e32332e372e677a|]
+Jun 12 11:33:40 10.71.57.0 u95286004 open "/logs/access.log.23.1.gz" flags READ mode 0666
+Jun 12 11:33:41 10.71.57.0 u95286004 close "/logs/access.log.23.2.gz" bytes read 1884 written 0
+Jun 12 11:33:41 10.71.57.0 u95286004 [10.71.57.0|get|1|1884|0|0|0|2f6c6f67732f6163636573732e6c6f672e32332e322e677a|]
+Jun 12 11:33:41 10.71.57.0 u95286004 open "/logs/sftp.log" flags READ mode 0666
+Jun 12 11:33:41 10.71.57.0 u95286004 close "/logs/access.log.23.1.gz" bytes read 2249 written 0
+Jun 12 11:33:41 10.71.57.0 u95286004 [10.71.57.0|get|1|2249|0|0|0|2f6c6f67732f6163636573732e6c6f672e32332e312e677a|]
+Jun 12 11:33:41 10.71.57.0 u95286004 open "/logs/access.log.24.4.gz" flags READ mode 0666
+Jun 12 11:33:41 10.71.57.0 u95286004 close "/logs/sftp.log" bytes read 20507 written 0
+Jun 12 11:33:41 10.71.57.0 u95286004 [10.71.57.0|get|0|20507|0|0|0|2f6c6f67732f736674702e6c6f67|]
+Jun 12 11:33:41 10.71.57.0 u95286004 open "/logs/access.log.24.5" flags READ mode 0666
+Jun 12 11:33:41 10.71.57.0 u95286004 close "/logs/access.log.24.4.gz" bytes read 2827 written 0
+Jun 12 11:33:41 10.71.57.0 u95286004 [10.71.57.0|get|0|2827|0|0|0|2f6c6f67732f6163636573732e6c6f672e32342e342e677a|]
+Jun 12 11:33:41 10.71.57.0 u95286004 open "/logs/access.log.24.3.gz" flags READ mode 0666
+Jun 12 11:33:41 10.71.57.0 u95286004 close "/logs/access.log.24.5" bytes read 22160 written 0
+Jun 12 11:33:41 10.71.57.0 u95286004 [10.71.57.0|get|0|22160|0|0|0|2f6c6f67732f6163636573732e6c6f672e32342e35|]
+Jun 12 11:33:41 10.71.57.0 u95286004 open "/logs/access.log.24.2.gz" flags READ mode 0666
+Jun 12 11:33:41 10.71.57.0 u95286004 close "/logs/access.log.24.3.gz" bytes read 3532 written 0
+Jun 12 11:33:41 10.71.57.0 u95286004 [10.71.57.0|get|0|3532|0|0|0|2f6c6f67732f6163636573732e6c6f672e32342e332e677a|]
+Jun 12 11:33:41 10.71.57.0 u95286004 open "/logs/access.log.24.1.gz" flags READ mode 0666
+Jun 12 11:33:41 10.71.57.0 u95286004 close "/logs/access.log.24.2.gz" bytes read 3511 written 0
+Jun 12 11:33:41 10.71.57.0 u95286004 [10.71.57.0|get|0|3511|0|0|0|2f6c6f67732f6163636573732e6c6f672e32342e322e677a|]
+Jun 12 11:33:41 10.71.57.0 u95286004 open "/logs/access.log.23.5.gz" flags READ mode 0666
+Jun 12 11:33:41 10.71.57.0 u95286004 close "/logs/access.log.24.1.gz" bytes read 1864 written 0
+Jun 12 11:33:41 10.71.57.0 u95286004 [10.71.57.0|get|0|1864|0|0|0|2f6c6f67732f6163636573732e6c6f672e32342e312e677a|]
+Jun 12 11:33:41 10.71.57.0 u95286004 open "/logs/access.log.23.4.gz" flags READ mode 0666
+Jun 12 11:33:41 10.71.57.0 u95286004 close "/logs/access.log.23.5.gz" bytes read 2630 written 0
+Jun 12 11:33:41 10.71.57.0 u95286004 [10.71.57.0|get|0|2630|0|0|0|2f6c6f67732f6163636573732e6c6f672e32332e352e677a|]
+Jun 12 11:33:41 10.71.57.0 u95286004 open "/logs/access.log.23.3.gz" flags READ mode 0666
+Jun 12 11:33:41 10.71.57.0 u95286004 close "/logs/access.log.23.4.gz" bytes read 3438 written 0
+Jun 12 11:33:41 10.71.57.0 u95286004 [10.71.57.0|get|0|3438|0|0|0|2f6c6f67732f6163636573732e6c6f672e32332e342e677a|]
+Jun 12 11:33:41 10.71.57.0 u95286004 open "/logs/access.log.18.gz" flags READ mode 0666
+Jun 12 11:33:41 10.71.57.0 u95286004 close "/logs/access.log.23.3.gz" bytes read 2493 written 0
+Jun 12 11:33:41 10.71.57.0 u95286004 [10.71.57.0|get|0|2493|0|0|0|2f6c6f67732f6163636573732e6c6f672e32332e332e677a|]
+Jun 12 11:33:41 10.71.57.0 u95286004 open "/logs/access.log.21.gz" flags READ mode 0666
+Jun 12 11:33:41 10.71.57.0 u95286004 close "/logs/access.log.18.gz" bytes read 31915 written 0
+Jun 12 11:33:41 10.71.57.0 u95286004 [10.71.57.0|get|0|31915|0|0|0|2f6c6f67732f6163636573732e6c6f672e31382e677a|]
+Jun 12 11:33:41 10.71.57.0 u95286004 open "/logs/access.log.20.gz" flags READ mode 0666
+Jun 12 11:33:41 10.71.57.0 u95286004 close "/logs/access.log.21.gz" bytes read 51386 written 0
+Jun 12 11:33:41 10.71.57.0 u95286004 [10.71.57.0|get|0|51386|0|0|0|2f6c6f67732f6163636573732e6c6f672e32312e677a|]
+Jun 12 11:33:41 10.71.57.0 u95286004 open "/logs/access.log.19.gz" flags READ mode 0666
+Jun 12 11:33:41 10.71.57.0 u95286004 close "/logs/access.log.20.gz" bytes read 37135 written 0
+Jun 12 11:33:41 10.71.57.0 u95286004 [10.71.57.0|get|0|37135|0|0|0|2f6c6f67732f6163636573732e6c6f672e32302e677a|]
+Jun 12 11:33:41 10.71.57.0 u95286004 open "/logs/access.log.17.gz" flags READ mode 0666
+Jun 12 11:33:41 10.71.57.0 u95286004 close "/logs/access.log.19.gz" bytes read 84879 written 0
+Jun 12 11:33:41 10.71.57.0 u95286004 [10.71.57.0|get|0|84879|0|0|0|2f6c6f67732f6163636573732e6c6f672e31392e677a|]
+Jun 12 11:33:41 10.71.57.0 u95286004 open "/logs/access.log.16.gz" flags READ mode 0666
+Jun 12 11:33:41 10.71.57.0 u95286004 close "/logs/access.log.17.gz" bytes read 65823 written 0
+Jun 12 11:33:41 10.71.57.0 u95286004 [10.71.57.0|get|0|65823|0|0|0|2f6c6f67732f6163636573732e6c6f672e31372e677a|]
+Jun 12 11:33:41 10.71.57.0 u95286004 open "/logs/traffic.db" flags READ mode 0666
+Jun 12 11:33:41 10.71.57.0 u95286004 close "/logs/access.log.16.gz" bytes read 73508 written 0
+Jun 12 11:33:41 10.71.57.0 u95286004 [10.71.57.0|get|0|73508|0|0|0|2f6c6f67732f6163636573732e6c6f672e31362e677a|]
+Jun 12 11:33:41 10.71.57.0 u95286004 open "/logs/last_traffic" flags READ mode 0666
+Jun 12 11:33:41 10.71.57.0 u95286004 close "/logs/traffic.db" bytes read 40960 written 0
+Jun 12 11:33:41 10.71.57.0 u95286004 [10.71.57.0|get|0|40960|0|0|0|2f6c6f67732f747261666669632e6462|]
+Jun 12 11:33:41 10.71.57.0 u95286004 open "/logs/info.py" flags READ mode 0666
+Jun 12 11:33:41 10.71.57.0 u95286004 close "/logs/last_traffic" bytes read 0 written 0
+Jun 12 11:33:41 10.71.57.0 u95286004 [10.71.57.0|get|0|0|0|0|0|2f6c6f67732f6c6173745f74726166666963|]
+Jun 12 11:33:41 10.71.57.0 u95286004 open "/logs/info.pl" flags READ mode 0666
+Jun 12 11:33:41 10.71.57.0 u95286004 close "/logs/info.py" bytes read 6319 written 0
+Jun 12 11:33:41 10.71.57.0 u95286004 [10.71.57.0|get|0|6319|0|0|0|2f6c6f67732f696e666f2e7079|]
+Jun 12 11:33:41 10.71.57.0 u95286004 open "/logs/info.php5" flags READ mode 0666
+Jun 12 11:33:41 10.71.57.0 u95286004 close "/logs/info.pl" bytes read 4200 written 0
+Jun 12 11:33:41 10.71.57.0 u95286004 [10.71.57.0|get|0|4200|0|0|0|2f6c6f67732f696e666f2e706c|]
+Jun 12 11:33:41 10.71.57.0 u95286004 open "/logs/access.log.23.6.gz" flags READ mode 0666
+Jun 12 11:33:41 10.71.57.0 u95286004 close "/logs/info.php5" bytes read 21 written 0
+Jun 12 11:33:41 10.71.57.0 u95286004 [10.71.57.0|get|0|21|0|0|0|2f6c6f67732f696e666f2e70687035|]
+Jun 12 11:33:41 10.71.57.0 u95286004 open "/logs/.htaccess" flags READ mode 0666
+Jun 12 11:33:41 10.71.57.0 u95286004 close "/logs/access.log.23.6.gz" bytes read 3057 written 0
+Jun 12 11:33:41 10.71.57.0 u95286004 [10.71.57.0|get|0|3057|0|0|0|2f6c6f67732f6163636573732e6c6f672e32332e362e677a|]
+Jun 12 11:33:41 10.71.57.0 u95286004 close "/logs/.htaccess" bytes read 197 written 0
+Jun 12 11:33:41 10.71.57.0 u95286004 [10.71.57.0|get|0|197|0|0|0|2f6c6f67732f2e6874616363657373|]
+Jun 12 11:33:41 10.71.57.0 u95286004 open "/logs/traffic.html/index.html" flags READ mode 0666
+Jun 12 11:33:41 10.71.57.0 u95286004 open "/logs/traffic.html/12.html" flags READ mode 0666
+Jun 12 11:33:41 10.71.57.0 u95286004 close "/logs/traffic.html/index.html" bytes read 6616 written 0
+Jun 12 11:33:41 10.71.57.0 u95286004 [10.71.57.0|get|0|6616|0|0|0|2f6c6f67732f747261666669632e68746d6c2f696e6465782e68746d6c|]
+Jun 12 11:33:41 10.71.57.0 u95286004 open "/logs/traffic.html/11.html" flags READ mode 0666
+Jun 12 11:33:41 10.71.57.0 u95286004 close "/logs/traffic.html/12.html" bytes read 9985 written 0
+Jun 12 11:33:41 10.71.57.0 u95286004 [10.71.57.0|get|0|9985|0|0|0|2f6c6f67732f747261666669632e68746d6c2f31322e68746d6c|]
+Jun 12 11:33:41 10.71.57.0 u95286004 open "/logs/traffic.html/10.html" flags READ mode 0666
+Jun 12 11:33:41 10.71.57.0 u95286004 close "/logs/traffic.html/11.html" bytes read 9623 written 0
+Jun 12 11:33:41 10.71.57.0 u95286004 [10.71.57.0|get|0|9623|0|0|0|2f6c6f67732f747261666669632e68746d6c2f31312e68746d6c|]
+Jun 12 11:33:41 10.71.57.0 u95286004 open "/logs/traffic.html/09.html" flags READ mode 0666
+Jun 12 11:33:41 10.71.57.0 u95286004 close "/logs/traffic.html/10.html" bytes read 9933 written 0
+Jun 12 11:33:41 10.71.57.0 u95286004 [10.71.57.0|get|0|9933|0|0|0|2f6c6f67732f747261666669632e68746d6c2f31302e68746d6c|]
+Jun 12 11:33:41 10.71.57.0 u95286004 open "/logs/traffic.html/08.html" flags READ mode 0666
+Jun 12 11:33:41 10.71.57.0 u95286004 close "/logs/traffic.html/09.html" bytes read 9633 written 0
+Jun 12 11:33:41 10.71.57.0 u95286004 [10.71.57.0|get|0|9633|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30392e68746d6c|]
+Jun 12 11:33:41 10.71.57.0 u95286004 open "/logs/traffic.html/07.html" flags READ mode 0666
+Jun 12 11:33:41 10.71.57.0 u95286004 close "/logs/traffic.html/08.html" bytes read 9915 written 0
+Jun 12 11:33:41 10.71.57.0 u95286004 [10.71.57.0|get|0|9915|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30382e68746d6c|]
+Jun 12 11:33:41 10.71.57.0 u95286004 open "/logs/traffic.html/06.html" flags READ mode 0666
+Jun 12 11:33:41 10.71.57.0 u95286004 close "/logs/traffic.html/07.html" bytes read 9953 written 0
+Jun 12 11:33:41 10.71.57.0 u95286004 [10.71.57.0|get|0|9953|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30372e68746d6c|]
+Jun 12 11:33:41 10.71.57.0 u95286004 open "/logs/traffic.html/05.html" flags READ mode 0666
+Jun 12 11:33:41 10.71.57.0 u95286004 close "/logs/traffic.html/06.html" bytes read 4117 written 0
+Jun 12 11:33:41 10.71.57.0 u95286004 [10.71.57.0|get|0|4117|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30362e68746d6c|]
+Jun 12 11:33:41 10.71.57.0 u95286004 open "/logs/traffic.html/04.html" flags READ mode 0666
+Jun 12 11:33:41 10.71.57.0 u95286004 close "/logs/traffic.html/05.html" bytes read 9939 written 0
+Jun 12 11:33:41 10.71.57.0 u95286004 [10.71.57.0|get|0|9939|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30352e68746d6c|]
+Jun 12 11:33:41 10.71.57.0 u95286004 open "/logs/traffic.html/03.html" flags READ mode 0666
+Jun 12 11:33:41 10.71.57.0 u95286004 close "/logs/traffic.html/04.html" bytes read 9703 written 0
+Jun 12 11:33:41 10.71.57.0 u95286004 [10.71.57.0|get|0|9703|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30342e68746d6c|]
+Jun 12 11:33:41 10.71.57.0 u95286004 open "/logs/traffic.html/02.html" flags READ mode 0666
+Jun 12 11:33:41 10.71.57.0 u95286004 close "/logs/traffic.html/03.html" bytes read 9947 written 0
+Jun 12 11:33:41 10.71.57.0 u95286004 [10.71.57.0|get|0|9947|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30332e68746d6c|]
+Jun 12 11:33:41 10.71.57.0 u95286004 open "/logs/traffic.html/01.html" flags READ mode 0666
+Jun 12 11:33:41 10.71.57.0 u95286004 close "/logs/traffic.html/02.html" bytes read 9077 written 0
+Jun 12 11:33:41 10.71.57.0 u95286004 [10.71.57.0|get|0|9077|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30322e68746d6c|]
+Jun 12 11:33:41 10.71.57.0 u95286004 open "/logs/traffic.html/.md5sums" flags READ mode 0666
+Jun 12 11:33:41 10.71.57.0 u95286004 sent status Permission denied
+Jun 12 11:33:41 10.71.57.0 u95286004 close "/logs/traffic.html/01.html" bytes read 9959 written 0
+Jun 12 11:33:41 10.71.57.0 u95286004 [10.71.57.0|get|0|9959|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30312e68746d6c|]
+Jun 12 11:33:41 10.71.57.0 u95286004 open "/logs/traffic.html/.htaccess" flags READ mode 0666
+Jun 12 11:33:41 10.71.57.0 u95286004 open "/logs/traffic.html/.md5sums" flags READ mode 0666
+Jun 12 11:33:41 10.71.57.0 u95286004 sent status Permission denied
+Jun 12 11:33:41 10.71.57.0 u95286004 open "/logs/traffic.html/.md5sums" flags READ mode 0666
+Jun 12 11:33:41 10.71.57.0 u95286004 sent status Permission denied
+Jun 12 11:33:41 10.71.57.0 u95286004 close "/logs/traffic.html/.htaccess" bytes read 23 written 0
+Jun 12 11:33:41 10.71.57.0 u95286004 [10.71.57.0|get|0|23|0|0|0|2f6c6f67732f747261666669632e68746d6c2f2e6874616363657373|]
+Jun 12 11:33:41 10.71.57.0 u95286004 open "/logs/access.log.current" flags READ mode 0666
+Jun 12 11:33:41 10.71.57.0 u95286004 open "/media/photo_accueil-35LB6MOI.jpg" flags READ mode 0666
+Jun 12 11:33:41 10.71.57.0 u95286004 close "/logs/access.log.current" bytes read 22160 written 0
+Jun 12 11:33:41 10.71.57.0 u95286004 [10.71.57.0|get|0|22160|0|0|0|2f6c6f67732f6163636573732e6c6f672e63757272656e74|]
+Jun 12 11:33:41 10.71.57.0 u95286004 open "/media/building-362O6TK4.jpg" flags READ mode 0666
+Jun 12 11:33:41 10.71.57.0 u95286004 close "/media/photo_accueil-35LB6MOI.jpg" bytes read 1180662 written 0
+Jun 12 11:33:41 10.71.57.0 u95286004 [10.71.57.0|get|0|1180662|0|0|0|2f6d656469612f70686f746f5f6163637565696c2d33354c42364d4f492e6a7067|]
+Jun 12 11:33:41 10.71.57.0 u95286004 open "/polices/Roboto/Roboto-ThinItalic.ttf" flags READ mode 0666
+Jun 12 11:33:41 10.71.57.0 u95286004 close "/media/building-362O6TK4.jpg" bytes read 390194 written 0
+Jun 12 11:33:41 10.71.57.0 u95286004 [10.71.57.0|get|0|390194|0|0|0|2f6d656469612f6275696c64696e672d3336324f36544b342e6a7067|]
+Jun 12 11:33:41 10.71.57.0 u95286004 open "/polices/Roboto/Roboto-Thin.ttf" flags READ mode 0666
+Jun 12 11:33:41 10.71.57.0 u95286004 close "/polices/Roboto/Roboto-ThinItalic.ttf" bytes read 176300 written 0
+Jun 12 11:33:41 10.71.57.0 u95286004 [10.71.57.0|get|0|176300|0|0|0|2f706f6c696365732f526f626f746f2f526f626f746f2d5468696e4974616c69632e747466|]
+Jun 12 11:33:41 10.71.57.0 u95286004 open "/polices/Roboto/Roboto-Regular.ttf" flags READ mode 0666
+Jun 12 11:33:41 10.71.57.0 u95286004 close "/polices/Roboto/Roboto-Thin.ttf" bytes read 171904 written 0
+Jun 12 11:33:41 10.71.57.0 u95286004 [10.71.57.0|get|0|171904|0|0|0|2f706f6c696365732f526f626f746f2f526f626f746f2d5468696e2e747466|]
+Jun 12 11:33:41 10.71.57.0 u95286004 open "/polices/Roboto/Roboto-MediumItalic.ttf" flags READ mode 0666
+Jun 12 11:33:41 10.71.57.0 u95286004 close "/polices/Roboto/Roboto-Regular.ttf" bytes read 171676 written 0
+Jun 12 11:33:41 10.71.57.0 u95286004 [10.71.57.0|get|0|171676|0|0|0|2f706f6c696365732f526f626f746f2f526f626f746f2d526567756c61722e747466|]
+Jun 12 11:33:41 10.71.57.0 u95286004 open "/polices/Roboto/Roboto-Medium.ttf" flags READ mode 0666
+Jun 12 11:33:41 10.71.57.0 u95286004 close "/polices/Roboto/Roboto-MediumItalic.ttf" bytes read 176864 written 0
+Jun 12 11:33:41 10.71.57.0 u95286004 [10.71.57.0|get|0|176864|0|0|0|2f706f6c696365732f526f626f746f2f526f626f746f2d4d656469756d4974616c69632e747466|]
+Jun 12 11:33:41 10.71.57.0 u95286004 open "/polices/Roboto/Roboto-LightItalic.ttf" flags READ mode 0666
+Jun 12 11:33:41 10.71.57.0 u95286004 close "/polices/Roboto/Roboto-Medium.ttf" bytes read 172064 written 0
+Jun 12 11:33:41 10.71.57.0 u95286004 [10.71.57.0|get|0|172064|0|0|0|2f706f6c696365732f526f626f746f2f526f626f746f2d4d656469756d2e747466|]
+Jun 12 11:33:41 10.71.57.0 u95286004 open "/polices/Roboto/Roboto-Light.ttf" flags READ mode 0666
+Jun 12 11:33:42 10.71.57.0 u95286004 close "/polices/Roboto/Roboto-LightItalic.ttf" bytes read 176616 written 0
+Jun 12 11:33:42 10.71.57.0 u95286004 [10.71.57.0|get|1|176616|0|0|0|2f706f6c696365732f526f626f746f2f526f626f746f2d4c696768744974616c69632e747466|]
+Jun 12 11:33:42 10.71.57.0 u95286004 open "/polices/Roboto/Roboto-Italic.ttf" flags READ mode 0666
+Jun 12 11:33:42 10.71.57.0 u95286004 close "/polices/Roboto/Roboto-Light.ttf" bytes read 170420 written 0
+Jun 12 11:33:42 10.71.57.0 u95286004 [10.71.57.0|get|1|170420|0|0|0|2f706f6c696365732f526f626f746f2f526f626f746f2d4c696768742e747466|]
+Jun 12 11:33:42 10.71.57.0 u95286004 open "/polices/Roboto/Roboto-BoldItalic.ttf" flags READ mode 0666
+Jun 12 11:33:42 10.71.57.0 u95286004 close "/polices/Roboto/Roboto-Italic.ttf" bytes read 173932 written 0
+Jun 12 11:33:42 10.71.57.0 u95286004 [10.71.57.0|get|0|173932|0|0|0|2f706f6c696365732f526f626f746f2f526f626f746f2d4974616c69632e747466|]
+Jun 12 11:33:42 10.71.57.0 u95286004 open "/polices/Roboto/Roboto-Bold.ttf" flags READ mode 0666
+Jun 12 11:33:42 10.71.57.0 u95286004 close "/polices/Roboto/Roboto-BoldItalic.ttf" bytes read 174952 written 0
+Jun 12 11:33:42 10.71.57.0 u95286004 [10.71.57.0|get|0|174952|0|0|0|2f706f6c696365732f526f626f746f2f526f626f746f2d426f6c644974616c69632e747466|]
+Jun 12 11:33:42 10.71.57.0 u95286004 open "/polices/Roboto/Roboto-BlackItalic.ttf" flags READ mode 0666
+Jun 12 11:33:42 10.71.57.0 u95286004 close "/polices/Roboto/Roboto-Bold.ttf" bytes read 170760 written 0
+Jun 12 11:33:42 10.71.57.0 u95286004 [10.71.57.0|get|0|170760|0|0|0|2f706f6c696365732f526f626f746f2f526f626f746f2d426f6c642e747466|]
+Jun 12 11:33:42 10.71.57.0 u95286004 open "/polices/Roboto/Roboto-Black.ttf" flags READ mode 0666
+Jun 12 11:33:42 10.71.57.0 u95286004 close "/polices/Roboto/Roboto-BlackItalic.ttf" bytes read 177552 written 0
+Jun 12 11:33:42 10.71.57.0 u95286004 [10.71.57.0|get|0|177552|0|0|0|2f706f6c696365732f526f626f746f2f526f626f746f2d426c61636b4974616c69632e747466|]
+Jun 12 11:33:42 10.71.57.0 u95286004 close "/polices/Roboto/Roboto-Black.ttf" bytes read 171480 written 0
+Jun 12 11:33:42 10.71.57.0 u95286004 [10.71.57.0|get|0|171480|0|0|0|2f706f6c696365732f526f626f746f2f526f626f746f2d426c61636b2e747466|]
+Jun 12 11:34:42 10.71.57.0 u95286004 Received disconnect from 10.71.57.0 port 59354:11: 
+Jun 12 11:34:42 10.71.57.0 u95286004 session closed for local user u95286004 from [10.71.57.0]
+Jun 12 11:34:42 10.71.57.0 u95286004 Received disconnect from 10.71.57.0 port 59364:11: 
+Jun 12 11:34:42 10.71.57.0 u95286004 session closed for local user u95286004 from [10.71.57.0]
+Jun 12 11:35:25 10.71.57.0 u95286004 Connection from 10.71.57.0 port 26518 on 82.165.82.8 port 22 rdomain ""
+Jun 12 11:35:25 10.71.57.0 u95286004 Accepted password for u95286004 from 10.71.57.0 port 26518 ssh2
+Jun 12 11:35:25 10.71.57.0 u95286004 Connection from 10.71.57.0 port 26528 on 82.165.82.8 port 22 rdomain ""
+Jun 12 11:35:25 10.71.57.0 u95286004 Accepted password for u95286004 from 10.71.57.0 port 26528 ssh2
+Jun 12 11:35:25 10.71.57.0 u95286004 Starting session: subsystem 'sftp' for u95286004 from 10.71.57.0 port 26518 id 0
+Jun 12 11:35:25 10.71.57.0 u95286004 Starting session: subsystem 'sftp' for u95286004 from 10.71.57.0 port 26528 id 0
+Jun 12 11:35:25 10.71.57.0 u95286004 session opened for local user u95286004 from [10.71.57.0]
+Jun 12 11:35:25 10.71.57.0 u95286004 session opened for local user u95286004 from [10.71.57.0]
+Jun 12 11:35:25 10.71.57.0 u95286004 open "/index.html" flags READ mode 0666
+Jun 12 11:35:25 10.71.57.0 u95286004 open "/favicon.ico" flags READ mode 0666
+Jun 12 11:35:25 10.71.57.0 u95286004 close "/index.html" bytes read 14322 written 0
+Jun 12 11:35:25 10.71.57.0 u95286004 [10.71.57.0|get|0|14322|0|0|0|2f696e6465782e68746d6c|]
+Jun 12 11:35:25 10.71.57.0 u95286004 close "/favicon.ico" bytes read 15086 written 0
+Jun 12 11:35:25 10.71.57.0 u95286004 [10.71.57.0|get|0|15086|0|0|0|2f66617669636f6e2e69636f|]
+Jun 12 11:35:25 10.71.57.0 u95286004 open "/main-RWOG3ART.js" flags READ mode 0666
+Jun 12 11:35:25 10.71.57.0 u95286004 open "/polyfills-FFHMD2TL.js" flags READ mode 0666
+Jun 12 11:35:25 10.71.57.0 u95286004 close "/polyfills-FFHMD2TL.js" bytes read 34519 written 0
+Jun 12 11:35:25 10.71.57.0 u95286004 [10.71.57.0|get|0|34519|0|0|0|2f706f6c7966696c6c732d4646484d4432544c2e6a73|]
+Jun 12 11:35:25 10.71.57.0 u95286004 open "/styles-KDMBLWIT.css" flags READ mode 0666
+Jun 12 11:35:25 10.71.57.0 u95286004 close "/main-RWOG3ART.js" bytes read 233690 written 0
+Jun 12 11:35:25 10.71.57.0 u95286004 [10.71.57.0|get|0|233690|0|0|0|2f6d61696e2d52574f47334152542e6a73|]
+Jun 12 11:35:25 10.71.57.0 u95286004 close "/styles-KDMBLWIT.css" bytes read 302 written 0
+Jun 12 11:35:25 10.71.57.0 u95286004 [10.71.57.0|get|0|302|0|0|0|2f7374796c65732d4b444d424c5749542e637373|]
+Jun 12 11:35:25 10.71.57.0 u95286004 open "/assets/photo_accueil.jpg" flags READ mode 0666
+Jun 12 11:35:25 10.71.57.0 u95286004 open "/assets/images_site_maman/facade.jpg" flags READ mode 0666
+Jun 12 11:35:26 10.71.57.0 u95286004 close "/assets/photo_accueil.jpg" bytes read 1180662 written 0
+Jun 12 11:35:26 10.71.57.0 u95286004 [10.71.57.0|get|1|1180662|0|0|0|2f6173736574732f70686f746f5f6163637565696c2e6a7067|]
+Jun 12 11:35:26 10.71.57.0 u95286004 close "/assets/images_site_maman/facade.jpg" bytes read 524268 written 0
+Jun 12 11:35:26 10.71.57.0 u95286004 [10.71.57.0|get|1|524268|0|0|0|2f6173736574732f696d616765735f736974655f6d616d616e2f6661636164652e6a7067|]
+Jun 12 11:35:26 10.71.57.0 u95286004 open "/assets/images_site_maman/logo_mail.png" flags READ mode 0666
+Jun 12 11:35:26 10.71.57.0 u95286004 open "/assets/images_site_maman/maison1.jpg" flags READ mode 0666
+Jun 12 11:35:26 10.71.57.0 u95286004 close "/assets/images_site_maman/logo_mail.png" bytes read 1627 written 0
+Jun 12 11:35:26 10.71.57.0 u95286004 [10.71.57.0|get|0|1627|0|0|0|2f6173736574732f696d616765735f736974655f6d616d616e2f6c6f676f5f6d61696c2e706e67|]
+Jun 12 11:35:26 10.71.57.0 u95286004 open "/assets/images_site_maman/logo_fleche.png" flags READ mode 0666
+Jun 12 11:35:26 10.71.57.0 u95286004 close "/assets/images_site_maman/logo_fleche.png" bytes read 1069 written 0
+Jun 12 11:35:26 10.71.57.0 u95286004 [10.71.57.0|get|0|1069|0|0|0|2f6173736574732f696d616765735f736974655f6d616d616e2f6c6f676f5f666c656368652e706e67|]
+Jun 12 11:35:26 10.71.57.0 u95286004 open "/assets/images_site_maman/building.jpg" flags READ mode 0666
+Jun 12 11:35:26 10.71.57.0 u95286004 close "/assets/images_site_maman/building.jpg" bytes read 390194 written 0
+Jun 12 11:35:26 10.71.57.0 u95286004 [10.71.57.0|get|0|390194|0|0|0|2f6173736574732f696d616765735f736974655f6d616d616e2f6275696c64696e672e6a7067|]
+Jun 12 11:35:26 10.71.57.0 u95286004 close "/assets/images_site_maman/maison1.jpg" bytes read 1429134 written 0
+Jun 12 11:35:26 10.71.57.0 u95286004 open "/assets/images_site_maman/separation.png" flags READ mode 0666
+Jun 12 11:35:26 10.71.57.0 u95286004 [10.71.57.0|get|0|1429134|0|0|0|2f6173736574732f696d616765735f736974655f6d616d616e2f6d6169736f6e312e6a7067|]
+Jun 12 11:35:26 10.71.57.0 u95286004 open "/assets/images_site_maman/logo_telephone.png" flags READ mode 0666
+Jun 12 11:35:26 10.71.57.0 u95286004 close "/assets/images_site_maman/logo_telephone.png" bytes read 1200 written 0
+Jun 12 11:35:26 10.71.57.0 u95286004 close "/assets/images_site_maman/separation.png" bytes read 13162 written 0
+Jun 12 11:35:26 10.71.57.0 u95286004 [10.71.57.0|get|0|13162|0|0|0|2f6173736574732f696d616765735f736974655f6d616d616e2f73657061726174696f6e2e706e67|]
+Jun 12 11:35:26 10.71.57.0 u95286004 [10.71.57.0|get|0|1200|0|0|0|2f6173736574732f696d616765735f736974655f6d616d616e2f6c6f676f5f74656c6570686f6e652e706e67|]
+Jun 12 11:35:26 10.71.57.0 u95286004 open "/assets/images_site_maman/maison.jpg" flags READ mode 0666
+Jun 12 11:35:26 10.71.57.0 u95286004 open "/assets/images_site_maman/logo_reno1.png" flags READ mode 0666
+Jun 12 11:35:26 10.71.57.0 u95286004 close "/assets/images_site_maman/logo_reno1.png" bytes read 1240 written 0
+Jun 12 11:35:26 10.71.57.0 u95286004 [10.71.57.0|get|0|1240|0|0|0|2f6173736574732f696d616765735f736974655f6d616d616e2f6c6f676f5f72656e6f312e706e67|]
+Jun 12 11:35:26 10.71.57.0 u95286004 open "/assets/images_site_maman/fleche.jpg" flags READ mode 0666
+Jun 12 11:35:26 10.71.57.0 u95286004 close "/assets/images_site_maman/fleche.jpg" bytes read 2369 written 0
+Jun 12 11:35:26 10.71.57.0 u95286004 [10.71.57.0|get|0|2369|0|0|0|2f6173736574732f696d616765735f736974655f6d616d616e2f666c656368652e6a7067|]
+Jun 12 11:35:26 10.71.57.0 u95286004 open "/assets/images_site_maman/logo_med1.png" flags READ mode 0666
+Jun 12 11:35:26 10.71.57.0 u95286004 close "/assets/images_site_maman/logo_med1.png" bytes read 1174 written 0
+Jun 12 11:35:26 10.71.57.0 u95286004 [10.71.57.0|get|0|1174|0|0|0|2f6173736574732f696d616765735f736974655f6d616d616e2f6c6f676f5f6d6564312e706e67|]
+Jun 12 11:35:26 10.71.57.0 u95286004 open "/assets/images_site_maman/logo_fleche2.png" flags READ mode 0666
+Jun 12 11:35:26 10.71.57.0 u95286004 close "/assets/images_site_maman/logo_fleche2.png" bytes read 1071 written 0
+Jun 12 11:35:26 10.71.57.0 u95286004 [10.71.57.0|get|0|1071|0|0|0|2f6173736574732f696d616765735f736974655f6d616d616e2f6c6f676f5f666c65636865322e706e67|]
+Jun 12 11:35:26 10.71.57.0 u95286004 open "/assets/images_site_maman/house-logo.svg" flags READ mode 0666
+Jun 12 11:35:26 10.71.57.0 u95286004 close "/assets/images_site_maman/house-logo.svg" bytes read 1406 written 0
+Jun 12 11:35:26 10.71.57.0 u95286004 [10.71.57.0|get|0|1406|0|0|0|2f6173736574732f696d616765735f736974655f6d616d616e2f686f7573652d6c6f676f2e737667|]
+Jun 12 11:35:26 10.71.57.0 u95286004 open "/assets/images_site_maman/photo_maison1.jpg" flags READ mode 0666
+Jun 12 11:35:26 10.71.57.0 u95286004 close "/assets/images_site_maman/maison.jpg" bytes read 8925203 written 0
+Jun 12 11:35:26 10.71.57.0 u95286004 [10.71.57.0|get|0|8925203|0|0|0|2f6173736574732f696d616765735f736974655f6d616d616e2f6d6169736f6e2e6a7067|]
+Jun 12 11:35:26 10.71.57.0 u95286004 open "/assets/images_site_maman/logo_fleche_accueil.png" flags READ mode 0666
+Jun 12 11:35:26 10.71.57.0 u95286004 close "/assets/images_site_maman/photo_maison1.jpg" bytes read 80820 written 0
+Jun 12 11:35:26 10.71.57.0 u95286004 [10.71.57.0|get|0|80820|0|0|0|2f6173736574732f696d616765735f736974655f6d616d616e2f70686f746f5f6d6169736f6e312e6a7067|]
+Jun 12 11:35:26 10.71.57.0 u95286004 open "/assets/images_site_maman/logo_bois1.png" flags READ mode 0666
+Jun 12 11:35:26 10.71.57.0 u95286004 close "/assets/images_site_maman/logo_fleche_accueil.png" bytes read 967 written 0
+Jun 12 11:35:26 10.71.57.0 u95286004 [10.71.57.0|get|0|967|0|0|0|2f6173736574732f696d616765735f736974655f6d616d616e2f6c6f676f5f666c656368655f6163637565696c2e706e67|]
+Jun 12 11:35:26 10.71.57.0 u95286004 close "/assets/images_site_maman/logo_bois1.png" bytes read 1348 written 0
+Jun 12 11:35:26 10.71.57.0 u95286004 [10.71.57.0|get|0|1348|0|0|0|2f6173736574732f696d616765735f736974655f6d616d616e2f6c6f676f5f626f6973312e706e67|]
+Jun 12 11:35:26 10.71.57.0 u95286004 open "/assets/images_site_maman/familles/maison1av.jpg" flags READ mode 0666
+Jun 12 11:35:26 10.71.57.0 u95286004 open "/assets/images_site_maman/familles/maison1ap.jpg" flags READ mode 0666
+Jun 12 11:35:26 10.71.57.0 u95286004 close "/assets/images_site_maman/familles/maison1ap.jpg" bytes read 149158 written 0
+Jun 12 11:35:26 10.71.57.0 u95286004 [10.71.57.0|get|0|149158|0|0|0|2f6173736574732f696d616765735f736974655f6d616d616e2f66616d696c6c65732f6d6169736f6e3161702e6a7067|]
+Jun 12 11:35:26 10.71.57.0 u95286004 open "/assets/images_site_maman/familles/maison2ap.jpg" flags READ mode 0666
+Jun 12 11:35:26 10.71.57.0 u95286004 close "/assets/images_site_maman/familles/maison1av.jpg" bytes read 193589 written 0
+Jun 12 11:35:26 10.71.57.0 u95286004 [10.71.57.0|get|0|193589|0|0|0|2f6173736574732f696d616765735f736974655f6d616d616e2f66616d696c6c65732f6d6169736f6e3161762e6a7067|]
+Jun 12 11:35:26 10.71.57.0 u95286004 open "/assets/images_site_maman/familles/maison2av.jpg" flags READ mode 0666
+Jun 12 11:35:26 10.71.57.0 u95286004 close "/assets/images_site_maman/familles/maison2av.jpg" bytes read 127211 written 0
+Jun 12 11:35:26 10.71.57.0 u95286004 [10.71.57.0|get|0|127211|0|0|0|2f6173736574732f696d616765735f736974655f6d616d616e2f66616d696c6c65732f6d6169736f6e3261762e6a7067|]
+Jun 12 11:35:26 10.71.57.0 u95286004 close "/assets/images_site_maman/familles/maison2ap.jpg" bytes read 184880 written 0
+Jun 12 11:35:26 10.71.57.0 u95286004 [10.71.57.0|get|0|184880|0|0|0|2f6173736574732f696d616765735f736974655f6d616d616e2f66616d696c6c65732f6d6169736f6e3261702e6a7067|]
+Jun 12 11:35:26 10.71.57.0 u95286004 open "/assets/images_site_maman/accueil/photo_accueil.jpg" flags READ mode 0666
+Jun 12 11:35:26 10.71.57.0 u95286004 open "/assets/images_site_maman/renovations/escalier2.jpg" flags READ mode 0666
+Jun 12 11:35:26 10.71.57.0 u95286004 close "/assets/images_site_maman/renovations/escalier2.jpg" bytes read 116220 written 0
+Jun 12 11:35:26 10.71.57.0 u95286004 [10.71.57.0|get|0|116220|0|0|0|2f6173736574732f696d616765735f736974655f6d616d616e2f72656e6f766174696f6e732f657363616c696572322e6a7067|]
+Jun 12 11:35:26 10.71.57.0 u95286004 open "/assets/images_site_maman/renovations/sdb.jpg" flags READ mode 0666
+Jun 12 11:35:26 10.71.57.0 u95286004 close "/assets/images_site_maman/accueil/photo_accueil.jpg" bytes read 1180662 written 0
+Jun 12 11:35:26 10.71.57.0 u95286004 close "/assets/images_site_maman/renovations/sdb.jpg" bytes read 104517 written 0
+Jun 12 11:35:26 10.71.57.0 u95286004 [10.71.57.0|get|0|1180662|0|0|0|2f6173736574732f696d616765735f736974655f6d616d616e2f6163637565696c2f70686f746f5f6163637565696c2e6a7067|]
+Jun 12 11:35:26 10.71.57.0 u95286004 [10.71.57.0|get|0|104517|0|0|0|2f6173736574732f696d616765735f736974655f6d616d616e2f72656e6f766174696f6e732f7364622e6a7067|]
+Jun 12 11:35:26 10.71.57.0 u95286004 open "/assets/images_site_maman/renovations/porte.jpg" flags READ mode 0666
+Jun 12 11:35:26 10.71.57.0 u95286004 open "/assets/images_site_maman/renovations/escalier1.jpg" flags READ mode 0666
+Jun 12 11:35:26 10.71.57.0 u95286004 close "/assets/images_site_maman/renovations/porte.jpg" bytes read 105201 written 0
+Jun 12 11:35:26 10.71.57.0 u95286004 [10.71.57.0|get|0|105201|0|0|0|2f6173736574732f696d616765735f736974655f6d616d616e2f72656e6f766174696f6e732f706f7274652e6a7067|]
+Jun 12 11:35:26 10.71.57.0 u95286004 open "/assets/images_site_maman/renovations/maison_face.jpg" flags READ mode 0666
+Jun 12 11:35:26 10.71.57.0 u95286004 close "/assets/images_site_maman/renovations/escalier1.jpg" bytes read 135837 written 0
+Jun 12 11:35:26 10.71.57.0 u95286004 [10.71.57.0|get|0|135837|0|0|0|2f6173736574732f696d616765735f736974655f6d616d616e2f72656e6f766174696f6e732f657363616c696572312e6a7067|]
+Jun 12 11:35:26 10.71.57.0 u95286004 open "/assets/images_site_maman/renovations/maison.jpg" flags READ mode 0666
+Jun 12 11:35:26 10.71.57.0 u95286004 close "/assets/images_site_maman/renovations/maison_face.jpg" bytes read 147212 written 0
+Jun 12 11:35:26 10.71.57.0 u95286004 [10.71.57.0|get|0|147212|0|0|0|2f6173736574732f696d616765735f736974655f6d616d616e2f72656e6f766174696f6e732f6d6169736f6e5f666163652e6a7067|]
+Jun 12 11:35:26 10.71.57.0 u95286004 open "/assets/images_site_maman/renovations/cheminee.jpg" flags READ mode 0666
+Jun 12 11:35:26 10.71.57.0 u95286004 close "/assets/images_site_maman/renovations/maison.jpg" bytes read 672348 written 0
+Jun 12 11:35:26 10.71.57.0 u95286004 [10.71.57.0|get|0|672348|0|0|0|2f6173736574732f696d616765735f736974655f6d616d616e2f72656e6f766174696f6e732f6d6169736f6e2e6a7067|]
+Jun 12 11:35:26 10.71.57.0 u95286004 open "/assets/images_site_maman/renovations/maison_arriere.jpg" flags READ mode 0666
+Jun 12 11:35:26 10.71.57.0 u95286004 close "/assets/images_site_maman/renovations/cheminee.jpg" bytes read 399705 written 0
+Jun 12 11:35:26 10.71.57.0 u95286004 [10.71.57.0|get|0|399705|0|0|0|2f6173736574732f696d616765735f736974655f6d616d616e2f72656e6f766174696f6e732f6368656d696e65652e6a7067|]
+Jun 12 11:35:26 10.71.57.0 u95286004 open "/assets/images_site_maman/centres_medicaux/meignan_bassens.jpg" flags READ mode 0666
+Jun 12 11:35:26 10.71.57.0 u95286004 close "/assets/images_site_maman/renovations/maison_arriere.jpg" bytes read 182537 written 0
+Jun 12 11:35:26 10.71.57.0 u95286004 [10.71.57.0|get|0|182537|0|0|0|2f6173736574732f696d616765735f736974655f6d616d616e2f72656e6f766174696f6e732f6d6169736f6e5f617272696572652e6a7067|]
+Jun 12 11:35:27 10.71.57.0 u95286004 close "/assets/images_site_maman/centres_medicaux/meignan_bassens.jpg" bytes read 148640 written 0
+Jun 12 11:35:27 10.71.57.0 u95286004 [10.71.57.0|get|1|148640|0|0|0|2f6173736574732f696d616765735f736974655f6d616d616e2f63656e747265735f6d656469636175782f6d6569676e616e5f62617373656e732e6a7067|]
+Jun 12 11:35:27 10.71.57.0 u95286004 open "/assets/images_site_maman/centres_medicaux/centre_langoiran.jpg" flags READ mode 0666
+Jun 12 11:35:27 10.71.57.0 u95286004 open "/assets/images_site_maman/centres_medicaux/les_laurieres.jpg" flags READ mode 0666
+Jun 12 11:35:27 10.71.57.0 u95286004 close "/assets/images_site_maman/centres_medicaux/centre_langoiran.jpg" bytes read 83851 written 0
+Jun 12 11:35:27 10.71.57.0 u95286004 [10.71.57.0|get|0|83851|0|0|0|2f6173736574732f696d616765735f736974655f6d616d616e2f63656e747265735f6d656469636175782f63656e7472655f6c616e676f6972616e2e6a7067|]
+Jun 12 11:35:27 10.71.57.0 u95286004 close "/assets/images_site_maman/centres_medicaux/les_laurieres.jpg" bytes read 127916 written 0
+Jun 12 11:35:27 10.71.57.0 u95286004 [10.71.57.0|get|0|127916|0|0|0|2f6173736574732f696d616765735f736974655f6d616d616e2f63656e747265735f6d656469636175782f6c65735f6c61757269657265732e6a7067|]
+Jun 12 11:35:27 10.71.57.0 u95286004 open "/assets/images_site_maman/maisons_bois/pins.jpg" flags READ mode 0666
+Jun 12 11:35:27 10.71.57.0 u95286004 open "/assets/images_site_maman/maisons_bois/plaine.jpg" flags READ mode 0666
+Jun 12 11:35:27 10.71.57.0 u95286004 close "/assets/images_site_maman/maisons_bois/pins.jpg" bytes read 573860 written 0
+Jun 12 11:35:27 10.71.57.0 u95286004 [10.71.57.0|get|0|573860|0|0|0|2f6173736574732f696d616765735f736974655f6d616d616e2f6d6169736f6e735f626f69732f70696e732e6a7067|]
+Jun 12 11:35:27 10.71.57.0 u95286004 open "/assets/images_site_maman/maisons_bois/interieur.jpg" flags READ mode 0666
+Jun 12 11:35:27 10.71.57.0 u95286004 close "/assets/images_site_maman/maisons_bois/plaine.jpg" bytes read 601859 written 0
+Jun 12 11:35:27 10.71.57.0 u95286004 [10.71.57.0|get|0|601859|0|0|0|2f6173736574732f696d616765735f736974655f6d616d616e2f6d6169736f6e735f626f69732f706c61696e652e6a7067|]
+Jun 12 11:35:27 10.71.57.0 u95286004 open "/assets/images_site_maman/lieux_publics/20171013_112601.JPG" flags READ mode 0666
+Jun 12 11:35:27 10.71.57.0 u95286004 close "/assets/images_site_maman/maisons_bois/interieur.jpg" bytes read 141074 written 0
+Jun 12 11:35:27 10.71.57.0 u95286004 [10.71.57.0|get|0|141074|0|0|0|2f6173736574732f696d616765735f736974655f6d616d616e2f6d6169736f6e735f626f69732f696e746572696575722e6a7067|]
+Jun 12 11:35:27 10.71.57.0 u95286004 open "/assets/images_site_maman/lieux_publics/20171103_111509.JPG" flags READ mode 0666
+Jun 12 11:35:27 10.71.57.0 u95286004 close "/assets/images_site_maman/lieux_publics/20171103_111509.JPG" bytes read 2917316 written 0
+Jun 12 11:35:27 10.71.57.0 u95286004 [10.71.57.0|get|0|2917316|0|0|0|2f6173736574732f696d616765735f736974655f6d616d616e2f6c696575785f7075626c6963732f32303137313130335f3131313530392e4a5047|]
+Jun 12 11:35:27 10.71.57.0 u95286004 open "/assets/images_site_maman/lieux_publics/20171013_112625.JPG" flags READ mode 0666
+Jun 12 11:35:27 10.71.57.0 u95286004 close "/assets/images_site_maman/lieux_publics/20171013_112601.JPG" bytes read 6335184 written 0
+Jun 12 11:35:27 10.71.57.0 u95286004 [10.71.57.0|get|0|6335184|0|0|0|2f6173736574732f696d616765735f736974655f6d616d616e2f6c696575785f7075626c6963732f32303137313031335f3131323630312e4a5047|]
+Jun 12 11:35:27 10.71.57.0 u95286004 open "/assets/images_site_maman/batiments_activites/bat_act1.jpg" flags READ mode 0666
+Jun 12 11:35:27 10.71.57.0 u95286004 close "/assets/images_site_maman/batiments_activites/bat_act1.jpg" bytes read 87049 written 0
+Jun 12 11:35:27 10.71.57.0 u95286004 [10.71.57.0|get|0|87049|0|0|0|2f6173736574732f696d616765735f736974655f6d616d616e2f626174696d656e74735f6163746976697465732f6261745f616374312e6a7067|]
+Jun 12 11:35:27 10.71.57.0 u95286004 open "/assets/images_site_maman/batiments_activites/bat_act2.jpg" flags READ mode 0666
+Jun 12 11:35:27 10.71.57.0 u95286004 close "/assets/images_site_maman/batiments_activites/bat_act2.jpg" bytes read 71676 written 0
+Jun 12 11:35:27 10.71.57.0 u95286004 [10.71.57.0|get|0|71676|0|0|0|2f6173736574732f696d616765735f736974655f6d616d616e2f626174696d656e74735f6163746976697465732f6261745f616374322e6a7067|]
+Jun 12 11:35:27 10.71.57.0 u95286004 open "/assets/images_site_maman/batiments_activites/bat_act3.jpg" flags READ mode 0666
+Jun 12 11:35:27 10.71.57.0 u95286004 close "/assets/images_site_maman/lieux_publics/20171013_112625.JPG" bytes read 5302295 written 0
+Jun 12 11:35:27 10.71.57.0 u95286004 [10.71.57.0|get|0|5302295|0|0|0|2f6173736574732f696d616765735f736974655f6d616d616e2f6c696575785f7075626c6963732f32303137313031335f3131323632352e4a5047|]
+Jun 12 11:35:27 10.71.57.0 u95286004 close "/assets/images_site_maman/batiments_activites/bat_act3.jpg" bytes read 70541 written 0
+Jun 12 11:35:27 10.71.57.0 u95286004 [10.71.57.0|get|0|70541|0|0|0|2f6173736574732f696d616765735f736974655f6d616d616e2f626174696d656e74735f6163746976697465732f6261745f616374332e6a7067|]
+Jun 12 11:35:27 10.71.57.0 u95286004 open "/logs/access.log.22.gz" flags READ mode 0666
+Jun 12 11:35:27 10.71.57.0 u95286004 open "/logs/access.log.23.7.gz" flags READ mode 0666
+Jun 12 11:35:27 10.71.57.0 u95286004 close "/logs/access.log.22.gz" bytes read 15173 written 0
+Jun 12 11:35:27 10.71.57.0 u95286004 [10.71.57.0|get|0|15173|0|0|0|2f6c6f67732f6163636573732e6c6f672e32322e677a|]
+Jun 12 11:35:27 10.71.57.0 u95286004 open "/logs/access.log.23.2.gz" flags READ mode 0666
+Jun 12 11:35:27 10.71.57.0 u95286004 close "/logs/access.log.23.7.gz" bytes read 2776 written 0
+Jun 12 11:35:27 10.71.57.0 u95286004 [10.71.57.0|get|0|2776|0|0|0|2f6c6f67732f6163636573732e6c6f672e32332e372e677a|]
+Jun 12 11:35:27 10.71.57.0 u95286004 open "/logs/access.log.23.1.gz" flags READ mode 0666
+Jun 12 11:35:27 10.71.57.0 u95286004 close "/logs/access.log.23.2.gz" bytes read 1884 written 0
+Jun 12 11:35:27 10.71.57.0 u95286004 [10.71.57.0|get|0|1884|0|0|0|2f6c6f67732f6163636573732e6c6f672e32332e322e677a|]
+Jun 12 11:35:27 10.71.57.0 u95286004 open "/logs/sftp.log" flags READ mode 0666
